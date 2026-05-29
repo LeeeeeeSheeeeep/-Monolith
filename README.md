@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Monolith 🌑
 
 **Monolith** is a massive, self-contained 64-bit Virtual CPU Architecture, Compiler, and OS ecosystem.
